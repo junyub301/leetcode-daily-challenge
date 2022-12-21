@@ -15,7 +15,6 @@ var canVisitAllRooms = function (rooms) {
             }
         }
     }
-    console.log(visited);
     return visited.every((v) => v === true);
 };
 
