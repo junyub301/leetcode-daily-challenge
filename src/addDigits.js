@@ -23,4 +23,3 @@ var addDigits2 = function (num) {
 
 const num = 1;
 console.log(addDigits2(num));
-38;
